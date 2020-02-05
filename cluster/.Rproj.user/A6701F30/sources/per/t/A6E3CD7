@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580868718539.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3709031030",
+    "id" : "A6E3CD7",
+    "lastKnownWriteTime" : 1580869458,
+    "last_content_update" : 1580869458631,
+    "path" : "~/Documentos/INEI/I - MES/cluster/Script /Script_near.R",
+    "project_path" : "Script /Script_near.R",
+    "properties" : {
+        "cursorPosition" : "41,0",
+        "scrollLine" : "27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
