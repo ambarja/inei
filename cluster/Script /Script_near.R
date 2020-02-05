@@ -29,10 +29,12 @@ for(i in 1:nrow(pts)){
 head(pts)
 
 # Problema:
-# Todos los centros poblados con un numero de hogares menores a 10, agruparse 
+# Todos los centros poblados con un número de hogares menores a 10, agruparse 
 # con los centros poblados cercanos y cuya suma este por encima de 10.
 
-# Observación: Este agrupamiento tiene cómo límite  a un codigo único IDAER
+# Observación: la unión de puntos o centro poblados hacer referencia de crear un 
+# campo nuevo "cluster" donde tenga un mismo ID los que se unen. 
+# Observación: Este agrupamiento tiene cómo límite  a un codigo único IDAE
 
 
 # Barja: Con la función "distm" obtengo una matriz de distancia,pero ahora se
