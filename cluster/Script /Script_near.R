@@ -32,8 +32,8 @@ head(pts)
 # Todos los centros poblados con un número de hogares menores a 10, agruparse 
 # con los centros poblados cercanos y cuya suma este por encima de 10.
 
-# Observación: la unión de puntos o centro poblados hacer referencia de crear un 
-# campo nuevo "cluster" donde tenga un mismo ID los que se unen. 
+# Observación: la unión de puntos o centro poblados hacer referencia a crear un 
+# campo nuevo llamado "cluster"donde tenga un mismo indentificador. 
 # Observación: Este agrupamiento tiene cómo límite  a un codigo único IDAE
 
 
